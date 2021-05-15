@@ -11,3 +11,5 @@ Sample programs to demonstrate the concept of recursion in C++.
 4. `indirect_recursion.cpp` - Recursive program to show indirect recursion. That
    is when a function A calls another function B which calls back function A and
    so on. This is also called circular recursion.
+5. `nested_recursion.cpp` - Recursive program to show nested recursion. That is
+   when a recursive call has another recursive call as an argument.
