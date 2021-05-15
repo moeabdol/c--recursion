@@ -25,3 +25,5 @@ Sample programs to demonstrate the concept of recursion in C++.
    so on. This is also called circular recursion.
 5. `nested_recursion.cpp` - Recursive program to show nested recursion. That is
    when a recursive call has another recursive call as an argument.
+6. `sum_of_first_n_natural_numbers.cpp` - Recursive program to calculate the sum
+   of first N natural numbers.
