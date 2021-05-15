@@ -2,15 +2,15 @@
 Sample programs to demonstrate the concept of recursion in C++.
 
 ## Types of Recursion
-1. Head Recursion: When the call to the recursive function comes before any
+1. **Head Recursion**: When the call to the recursive function comes before any
    statement.
-2. Tail Recursion: When the call to the recursive function comes after all
+2. **Tail Recursion**: When the call to the recursive function comes after all
    statements.
-3. Tree Recursion: When we call the recursive function more than once.
-5. Indirect Recursion: When we call the recursive function A that calls a
+3. **Tree Recursion**: When we call the recursive function more than once.
+5. **Indirect Recursion**: When we call the recursive function A that calls a
    recursive function B which in turn calls recursive function A and so on. This
    is also called Circular Recursion.
-5. Nested Recursion: When we call the recursive function as an argument to the
+5. **Nested Recursion**: When we call the recursive function as an argument to the
    recursive function.
 
 ## Program List
@@ -27,3 +27,4 @@ Sample programs to demonstrate the concept of recursion in C++.
    when a recursive call has another recursive call as an argument.
 6. `sum_of_first_n_natural_numbers.cpp` - Recursive program to calculate the sum
    of first N natural numbers.
+7. `factorial.cpp` - Recursive program to calculate factorial of n.
