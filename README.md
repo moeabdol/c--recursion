@@ -32,3 +32,5 @@ Sample programs to demonstrate the concept of recursion in C++.
 9. `taylor_series.cpp` - Recursive program to calculate taylor's series e^x for
    n times.
 10. `fibonacci.cpp` - Recursive program to calculate the nth fibonacci.
+11. `tower_of_hanoi.cpp` - Recursive program to solve the tower of hanoi
+    problem.
