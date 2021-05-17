@@ -28,3 +28,4 @@ Sample programs to demonstrate the concept of recursion in C++.
 6. `sum_of_first_n_natural_numbers.cpp` - Recursive program to calculate the sum
    of first N natural numbers.
 7. `factorial.cpp` - Recursive program to calculate factorial of n.
+8. `power.cpp` - Recursive program to calculate m to the power of n.
