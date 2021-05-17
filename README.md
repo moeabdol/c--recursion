@@ -31,3 +31,4 @@ Sample programs to demonstrate the concept of recursion in C++.
 8. `power.cpp` - Recursive program to calculate m to the power of n.
 9. `taylor_series.cpp` - Recursive program to calculate taylor's series e^x for
    n times.
+10. `fibonacci.cpp` - Recursive program to calculate the nth fibonacci.
